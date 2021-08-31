@@ -1,1 +1,1 @@
-Olá, esse projeto é para o monitoramento do uso da CPu e da Memória RAM do computador.
+Olá, esse projeto é para o monitoramento do uso da CPU e da Memória RAM do computador.
