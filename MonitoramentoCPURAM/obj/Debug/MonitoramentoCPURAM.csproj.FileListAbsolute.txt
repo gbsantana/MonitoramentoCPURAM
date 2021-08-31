@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\MonitoramentoCPURAM\MonitoramentoCPURAM\bin\Debug\MonitoramentoCPURAM.exe.config
+C:\Users\gabri\Desktop\MonitoramentoCPURAM\MonitoramentoCPURAM\bin\Debug\MonitoramentoCPURAM.exe
+C:\Users\gabri\Desktop\MonitoramentoCPURAM\MonitoramentoCPURAM\bin\Debug\MonitoramentoCPURAM.pdb
+C:\Users\gabri\Desktop\MonitoramentoCPURAM\MonitoramentoCPURAM\bin\Debug\MetroFramework.Design.dll
+C:\Users\gabri\Desktop\MonitoramentoCPURAM\MonitoramentoCPURAM\bin\Debug\MetroFramework.dll
+C:\Users\gabri\Desktop\MonitoramentoCPURAM\MonitoramentoCPURAM\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\gabri\Desktop\MonitoramentoCPURAM\MonitoramentoCPURAM\obj\Debug\MonitoramentoCPURAM.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\MonitoramentoCPURAM\MonitoramentoCPURAM\obj\Debug\MonitoramentoCPURAM.Form1.resources
+C:\Users\gabri\Desktop\MonitoramentoCPURAM\MonitoramentoCPURAM\obj\Debug\MonitoramentoCPURAM.Properties.Resources.resources
+C:\Users\gabri\Desktop\MonitoramentoCPURAM\MonitoramentoCPURAM\obj\Debug\MonitoramentoCPURAM.csproj.GenerateResource.cache
+C:\Users\gabri\Desktop\MonitoramentoCPURAM\MonitoramentoCPURAM\obj\Debug\MonitoramentoCPURAM.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\MonitoramentoCPURAM\MonitoramentoCPURAM\obj\Debug\MonitoramentoCPURAM.csproj.CopyComplete
+C:\Users\gabri\Desktop\MonitoramentoCPURAM\MonitoramentoCPURAM\obj\Debug\MonitoramentoCPURAM.exe
+C:\Users\gabri\Desktop\MonitoramentoCPURAM\MonitoramentoCPURAM\obj\Debug\MonitoramentoCPURAM.pdb

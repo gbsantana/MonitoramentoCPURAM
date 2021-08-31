@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonitoramentoCPURAM", "MonitoramentoCPURAM\MonitoramentoCPURAM.csproj", "{CD7AB8C5-0733-4266-850F-90D0339B082F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD7AB8C5-0733-4266-850F-90D0339B082F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD7AB8C5-0733-4266-850F-90D0339B082F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD7AB8C5-0733-4266-850F-90D0339B082F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD7AB8C5-0733-4266-850F-90D0339B082F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D7A2004-9C41-4654-8D3C-B440BF84EFD8}
+	EndGlobalSection
+EndGlobal
