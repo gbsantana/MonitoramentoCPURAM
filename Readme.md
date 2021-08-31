@@ -1,0 +1,1 @@
+Olá, esse projeto é para o monitoramento do uso da CPu e da Memória RAM do computador.
